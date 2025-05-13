@@ -8,7 +8,9 @@
 
 | Progreso del script en ejecución | Video de muestra generado |
 |----------------------------------|----------------------------|
-| ![burn_progress](burn_progress.png) | [▶ Ver Muestra.mp4](Muestra.mp4) |
+| ![burn_progress](burn_progress.png) |![Vista previa completa](muestra_lite.gif) [▶ Ver Muestra.mp4](Muestra.mp4) |
+
+
 
 ---
 
