@@ -4,6 +4,14 @@
 
 ---
 
+## 🎬 Vista previa
+
+| Progreso del script en ejecución | Video de muestra generado |
+|----------------------------------|----------------------------|
+| ![burn_progress](burn_progress.png) | [▶ Ver Muestra.mp4](Muestra.mp4) |
+
+---
+
 ## 🚀 ¿Qué hace este script?
 
 - **Carga un video MKV** que contenga al menos dos pistas de subtítulos (usualmente inglés y español).
